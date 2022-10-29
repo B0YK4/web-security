@@ -1,0 +1,10 @@
+Victim IP: 10.129.117.208 | Cookie: cookie=c00k1355h0u1d8353cu23d
+Victim IP: 10.129.118.109 | Cookie: wordpress_test_cookie=WP Cookie check
+Victim IP: 10.129.118.109 | Cookie:  wp-settings-time-2=1650420099
+Victim IP: 10.129.118.109 | Cookie:  flag=HTB{cr055_5173_5cr1p71n6_n1nj4}
+Victim IP: 10.13.40.103 | Cookie: connect.sid=s:mDtHQNRTsMchzX9GZEDqRhFttq4RtR7U.lOd lT1PCC4yZsWhL9MO/BgayQY2 mbRfcBH/rwPZ5k
+Victim IP: 10.13.40.103 | Cookie: connect.sid=s:mDtHQNRTsMchzX9GZEDqRhFttq4RtR7U.lOd lT1PCC4yZsWhL9MO/BgayQY2 mbRfcBH/rwPZ5k
+Victim IP: 10.13.40.103 | Cookie: connect.sid=s:mDtHQNRTsMchzX9GZEDqRhFttq4RtR7U.lOd lT1PCC4yZsWhL9MO/BgayQY2 mbRfcBH/rwPZ5k
+Victim IP: 10.13.40.103 | Cookie: connect.sid=s:mDtHQNRTsMchzX9GZEDqRhFttq4RtR7U.lOd lT1PCC4yZsWhL9MO/BgayQY2 mbRfcBH/rwPZ5k
+Victim IP: 10.13.40.103 | Cookie: connect.sid=s:mDtHQNRTsMchzX9GZEDqRhFttq4RtR7U.lOd lT1PCC4yZsWhL9MO/BgayQY2 mbRfcBH/rwPZ5k
+Victim IP: 10.13.40.103 | Cookie: connect.sid=s:at0YYHmITnfNSF0kM5Ne-ir1skTX3aEU.yj1/Xoaxe7cCjUYmfgQpW3o5wP3O8Ae7YNHnHPJIasE

